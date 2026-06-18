@@ -16,6 +16,20 @@
 > *📅 Learning Start Date — June 2026*
 
 ---
+## Relations with Other Modules — COMP204
+
+### Prerequisite Module
+- Advanced Programming Language
+
+### Co‑requisite Modules
+- Visual Programming
+- Computer Graphics and Design
+- Game Design and Programming
+- Database Management
+- Mobile Application Programming
+
+
+
 
 ## 🌐 Recommended References
 
