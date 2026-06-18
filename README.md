@@ -3,7 +3,7 @@
 ---
 
 ### 🏫 Academic Source
-**University of Kufa — Computer Science**  
+[**University of Kufa — Computer Science**](https://mathcomp.uokufa.edu.iq/archives/4465)  
 **Second Year | Semester 3 | Batch 2025–2026**
 
 
