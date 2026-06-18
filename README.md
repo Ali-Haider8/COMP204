@@ -8,16 +8,15 @@
 
 
 ### 👨‍🏫 Instructors
-- **Asst. Prof. Hasanen Murtadha Hassan Alyasiri**  
-- **Assistant Lecturer Marwah Abdullah mohammed habiban**
-- **Assistant Lecturer Zahraa Azhar**
+- [**Asst. Prof. Hasanen Murtadha Hassan Alyasiri**](https://staff.uokufa.edu.iq/faculty/detail/hasanen.alyasiri/)
+- [**Assistant Lecturer Marwah Abdullah mohammed habiban**](https://staff.uokufa.edu.iq/faculty/detail/marwa.habiban/)
+- [**Assistant Lecturer Zahraa Azhar**](https://staff.uokufa.edu.iq/faculty/detail/zahraa.alramahi/)
 
 > *📅 Learning Start Date — June 2026*
 
 
 ### 🔨 Relations with Other Modules — COMP204
 
----
 **Prerequisite Module**
 - Advanced Programming Language
 
