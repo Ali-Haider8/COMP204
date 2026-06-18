@@ -44,4 +44,6 @@
 - [Youtube Playlist - Batool](https://youtube.com/playlist?list=PL83yz61_Sp1rfDFYUNgZP8SmDRFRJ0Uj2&si=BfATEmrccEb1hRhH)
 - [Youtube Playlist - Jammel](https://youtube.com/playlist?list=PLwDpZMXfRps2doNh-qV-5eNoE6Qxlb-wn&si=fkwY_yJ4FOd7HAG9)
 
+### 💬 Telegram Sources
+- [Batool](https://t.me/batoolhataf/246)
 
