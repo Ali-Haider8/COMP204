@@ -1,38 +1,36 @@
-# 🚀 Object-Oriented Programming (Java) - COMP204
+### 🚀 Object-Oriented Programming (Java) - COMP204
 
 ---
 
-## 🏫 Academic Source
+### 🏫 Academic Source
 **University of Kufa — Computer Science**  
 **Second Year | Semester 3 | Batch 2025–2026**
 
----
 
-## 👨‍🏫 Instructors
+### 👨‍🏫 Instructors
 - **Asst. Prof. Hasanen Murtadha Hassan Alyasiri**  
 - **Assistant Lecturer Marwah Abdullah mohammed habiban**
 - **Assistant Lecturer Zahraa Azhar**
 
 > *📅 Learning Start Date — June 2026*
 
----
-## Relations with Other Modules — COMP204
 
-### Prerequisite Module
+### 🔨 Relations with Other Modules — COMP204
+
+---
+**Prerequisite Module**
 - Advanced Programming Language
 
-### Co‑requisite Modules
+**Co‑requisite Modules**
 - Visual Programming
 - Computer Graphics and Design
 - Game Design and Programming
 - Database Management
 - Mobile Application Programming
 
+### 🌐 Recommended References
 
-
-
-## 🌐 Recommended References
-
+---
 ### 📘 Books
 - **Java How to Program (9th Edition)** — Paul & Harvey Deitel  
 - **Java for Absolute Beginners** — Iuliana Cosmina  
