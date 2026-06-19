@@ -1,49 +1,47 @@
-### 🚀 Object-Oriented Programming (Java) - COMP204
+# COMP204: Object-Oriented Programming (Java)
+
+**University of Kufa — Computer Science**  
+Second Year | Semester 3 | 2025–2026
 
 ---
 
-### 🏫 Academic Source
-[**University of Kufa — Computer Science**](https://mathcomp.uokufa.edu.iq/archives/4465)  
-**Second Year | Semester 3 | Batch 2025–2026**
+## Instructors
 
-
-### 👨‍🏫 Instructors
-- [**Asst. Prof. Hasanen Murtadha Hassan Alyasiri**](https://staff.uokufa.edu.iq/faculty/detail/hasanen.alyasiri/)
-- [**Assistant Lecturer Marwah Abdullah mohammed habiban**](https://staff.uokufa.edu.iq/faculty/detail/marwa.habiban/)
-- [**Assistant Lecturer Zahraa Azhar**](https://staff.uokufa.edu.iq/faculty/detail/zahraa.alramahi/)
-
-> *📅 Learning Start Date — June 2026*
-
-
-### 🔨 Relations with Other Modules — COMP204
-
-**Prerequisite Module**
-- Advanced Programming Language
-
-**Co‑requisite Modules**
-- Visual Programming
-- Computer Graphics and Design
-- Game Design and Programming
-- Database Management
-- Mobile Application Programming
-
-### 🌐 Recommended References
+- [Asst. Prof. Hasanen Murtadha Hassan Alyasiri](https://staff.uokufa.edu.iq/faculty/detail/hasanen.alyasiri/)
+- [Assistant Lecturer Marwah Abdullah Mohammed Habiban](https://staff.uokufa.edu.iq/faculty/detail/marwa.habiban/)
+- [Assistant Lecturer Zahraa Azhar](https://staff.uokufa.edu.iq/faculty/detail/zahraa.alramahi/)
 
 ---
-### 📘 Books
-- **Java How to Program (9th Edition)** — Paul & Harvey Deitel  
-- **Java for Absolute Beginners** — Iuliana Cosmina  
 
-### 🌍 Websites
-- [W3Schools - Java Tutorial](https://www.w3schools.com/java/)  
-- [TPoint Tech - Java Tutorial](https://www.tpointtech.com/java-tutorial)  
-- [Codecademy - Learn Java](https://www.codecademy.com/learn/learn-java)  
-- [Programiz - Learn Java Programming](https://www.programiz.com/java-programming/)  
+## Prerequisites & Co-requisites
 
-### ▶️ YouTube Playlists
-- [Youtube Playlist - Batool](https://youtube.com/playlist?list=PL83yz61_Sp1rfDFYUNgZP8SmDRFRJ0Uj2&si=BfATEmrccEb1hRhH)
-- [Youtube Playlist - Jammel](https://youtube.com/playlist?list=PLwDpZMXfRps2doNh-qV-5eNoE6Qxlb-wn&si=fkwY_yJ4FOd7HAG9)
+**Before:** Advanced Programming Language
 
-### 💬 Telegram Sources
-- [Batool](https://t.me/batoolhataf/246)
+**Alongside:** Visual Programming, Computer Graphics, Game Design, Database Management, Mobile Applications
 
+---
+
+## Learning Resources
+
+### Books
+- [Java How to Program (9th Ed.)](link) — Deitel & Harvey
+- [Java for Absolute Beginners](link) — Iuliana Cosmina
+
+### Online Tutorials
+- [W3Schools - Java](https://www.w3schools.com/java/)
+- [Programiz - Java Programming](https://www.programiz.com/java-programming/)
+- [Codecademy - Learn Java](https://www.codecademy.com/learn/learn-java)
+- [TPoint Tech - Java](https://www.tpointtech.com/java-tutorial)
+
+### Video Playlists
+- [Batool Playlist](https://youtube.com/playlist?list=PL83yz61_Sp1rfDFYUNgZP8SmDRFRJ0Uj2)
+- [Jammel Playlist](https://youtube.com/playlist?list=PLwDpZMXfRps2doNh-qV-5eNoE6Qxlb-wn)
+
+### Community
+- [Telegram: Batool](https://t.me/batoolhataf/246)
+
+---
+
+## Start Date
+
+📍 June 2026
