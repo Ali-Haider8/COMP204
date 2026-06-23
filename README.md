@@ -1,14 +1,12 @@
 # 🚀 COMP204: Object-Oriented Programming (Java)
-
-![University](https://img.shields.io/badge/University-Kufa%20CS-purple?style=flat-square)
-![Batch](https://img.shields.io/badge/Batch-2025--2026-red?style=flat-square)
-![Level](https://img.shields.io/badge/Level-2nd%20Year-blue?style=flat-square)
-![Semester](https://img.shields.io/badge/Semester-3-green?style=flat-square)
-
-
 ---
 
-## 👨‍🏫 Instructors
+### 🏫 Academic Source
+[University of Kufa — Computer Science](https://mathcomp.uokufa.edu.iq/archives/4465)  
+Second Year | Semester 3 | Batch 2025–2026
+---
+
+### 👨‍🏫 Instructors
 
 - [Asst. Prof. Hasanen Murtadha Hassan Alyasiri](https://staff.uokufa.edu.iq/faculty/detail/hasanen.alyasiri/)
 - [Asst. Lect. Marwah Abdullah Mohammed Habiban](https://staff.uokufa.edu.iq/faculty/detail/marwa.habiban/)
@@ -16,7 +14,7 @@
 
 ---
 
-## 📋 Prerequisites & Co-requisites
+### 📋 Prerequisites & Co-requisites
 
 **📌 Before:** Advanced Programming Language
 
@@ -29,7 +27,7 @@
 
 ---
 
-## 📚 Learning Resources
+### 📚 Learning Resources
 
 ### 📖 Books
 - Java How to Program (9th Ed.)— Deitel & Harvey
