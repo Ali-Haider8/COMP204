@@ -6,7 +6,6 @@
 ![Semester](https://img.shields.io/badge/Semester-3-green?style=flat-square)
 
 
-
 ---
 
 ## 👨‍🏫 Instructors
