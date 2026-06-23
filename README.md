@@ -12,8 +12,8 @@
 ## 👨‍🏫 Instructors
 
 - [Asst. Prof. Hasanen Murtadha Hassan Alyasiri](https://staff.uokufa.edu.iq/faculty/detail/hasanen.alyasiri/)
-- [Assistant Lecturer Marwah Abdullah Mohammed Habiban](https://staff.uokufa.edu.iq/faculty/detail/marwa.habiban/)
-- [Assistant Lecturer Zahraa Azhar](https://staff.uokufa.edu.iq/faculty/detail/zahraa.alramahi/)
+- [Asst. Lect. Marwah Abdullah Mohammed Habiban](https://staff.uokufa.edu.iq/faculty/detail/marwa.habiban/)
+- [Asst. Lect. Zahraa Azhar](https://staff.uokufa.edu.iq/faculty/detail/zahraa.alramahi/)
 
 ---
 
