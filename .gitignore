@@ -30,3 +30,6 @@ bin/
 .DS_Store
 ## Other ###
 /.idea/
+
+.idea/
+*.iml
