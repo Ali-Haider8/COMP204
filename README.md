@@ -42,7 +42,7 @@
 - [Programiz - Learn Java Programming](https://www.programiz.com/java-programming/)  
 
 ### ▶️ YouTube Playlists
-- [Youtube Playlist - Batool](https://youtube.com/playlist?list=PL83yz61_Sp1rfDFYUNgZP8SmDRFRJ0Uj2&si=BfATEmrccEb1hRhH)
-- [Youtube Playlist - Jammel](https://youtube.com/playlist?list=PLwDpZMXfRps2doNh-qV-5eNoE6Qxlb-wn&si=fkwY_yJ4FOd7HAG9)
+- [YouTube Playlist - Batool](https://youtube.com/playlist?list=PL83yz61_Sp1rfDFYUNgZP8SmDRFRJ0Uj2&si=BfATEmrccEb1hRhH)
+- [YouTube Playlist - Jammel](https://youtube.com/playlist?list=PLwDpZMXfRps2doNh-qV-5eNoE6Qxlb-wn&si=fkwY_yJ4FOd7HAG9)
 
 
