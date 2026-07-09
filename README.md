@@ -1,4 +1,5 @@
-# 🚀 COMP204: Object-Oriented Programming (Java)
+## 🚀 COMP204: Object-Oriented Programming (Java)
+
 ---
 
 ### 🏫 Academic Source
