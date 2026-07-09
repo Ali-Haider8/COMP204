@@ -1,7 +1,7 @@
 package L1;
 
 /*
-Source: Lecture1.pdf (page 1 of 3)
+Source:  docs/lectures/Lecture1.pdf (page 1 of 3)
 Created by ali_h on 6/23/2026 at 11:05 PM
 */
 

@@ -7,7 +7,7 @@ package L1;
 import java.util.Scanner; // program uses Scanner
 
 /*
-Source: Lecture1.pdf (page 2 of 3)
+Source:  docs/lectures/Lecture1.pdf (page 2 of 3)
 Created by ali_h on 6/23/2026 at 11:49 PM
 */
 
@@ -26,7 +26,7 @@ public class GradeBookTest {
         System.out.printf("Initial course name is: %s\n\n", myGradeBook.getCourseName());
 
         // prompt for and read course name
-        System.out.println("Please enter the course name: ");
+        System.out.print("Please enter the course name: ");
         String theName = input.nextLine();
         myGradeBook.setCourseName(theName);
         System.out.println(); // outputs a blank line
