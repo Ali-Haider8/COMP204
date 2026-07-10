@@ -43,6 +43,7 @@ Second Year | Semester 3 | Batch 2025–2026
 ### ▶️ Video Playlists
 - [Batool Playlist](https://youtube.com/playlist?list=PL83yz61_Sp1rfDFYUNgZP8SmDRFRJ0Uj2)
 - [Jammel Playlist](https://youtube.com/playlist?list=PLwDpZMXfRps2doNh-qV-5eNoE6Qxlb-wn)
+- [Asst. Lec. Maytham Alhasooni Playlist](https://www.youtube.com/playlist?list=PLEy1PGRXuTOb8HW6U6KNhFuX_pD9xBZXf)
 
 ### 💬 Community
 - [Telegram: Batool](https://t.me/batoolhataf/246)
