@@ -1,4 +1,4 @@
-package L1;
+package L1.Examples;
 
 /*
 Source:  docs/lectures/Lecture1.pdf (page 1 of 3)

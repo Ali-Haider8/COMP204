@@ -1,4 +1,4 @@
-package L1;
+package L1.Examples;
 
 
 // Fig. 3.8: GradeBookTest.java
