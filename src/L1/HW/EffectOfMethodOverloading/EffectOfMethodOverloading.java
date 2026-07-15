@@ -1,4 +1,4 @@
-package L1.HW.TWO;
+package L1.HW.EffectOfMethodOverloading;
 
 /*
 Q> Using programming show the effect of the method overloading.
