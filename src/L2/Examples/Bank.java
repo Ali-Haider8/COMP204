@@ -1,7 +1,7 @@
 package L2.Examples;
 
 /*
-Source: .pdf (page 1 of 1)
+Source:  docs/lectures/Lecture2.pdf (page 1 of 3)
 Created by ali_h on 7/15/2026 at 18:45
 */
 
