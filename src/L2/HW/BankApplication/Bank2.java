@@ -15,6 +15,7 @@ public class Bank2 {
 
         BankAccount2 bankAccount = new BankAccount2();
         System.out.print("\nPlease enter your account number: ");
+        @SuppressWarnings("unused")
         int accountNumber = sc.nextInt();
         System.out.print("\nEnter your PIN: ");
         int enteredPIN = sc.nextInt();
