@@ -28,6 +28,7 @@ public class GradeBookTest {
         // prompt for and read course name
         System.out.print("Please enter the course name: ");
         String theName = input.nextLine();
+        input.close(); // close the scanner
         myGradeBook.setCourseName(theName);
         System.out.println(); // outputs a blank line
 
