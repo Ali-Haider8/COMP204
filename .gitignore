@@ -1,5 +1,6 @@
 *.class
-
+bin/
+*.class
 
 ### IntelliJ IDEA ###
 out/
