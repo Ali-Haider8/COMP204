@@ -6,7 +6,6 @@ Created by ali_h on 7/17/2026 at 09:21
 */
 
 import java.util.Scanner;
-import L2.HW.BankApplication.BankAccount2;
 
 public class Bank2 {
     static Scanner sc = new Scanner(System.in);
