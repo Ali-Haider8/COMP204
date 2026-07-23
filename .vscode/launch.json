@@ -4,15 +4,10 @@
         {
             "type": "java",
             "name": "Run Current Java",
-
             "request": "launch",
-
             "mainClass": "${file}",
-
             "console": "externalTerminal",
-
             "preLaunchTask": "Build Java",
-
             "cwd": "${workspaceFolder}"
         }
     ]

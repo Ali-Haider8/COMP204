@@ -1,11 +1,10 @@
 {
-    "java.project.sourcePaths": [
-        "src"
-    ],
-
-    "java.project.outputPath": "bin",
-
-    "java.debug.settings.console": "externalTerminal",
-
-    "java.configuration.updateBuildConfiguration": "automatic"
+    "code-runner.runInTerminal": true,
+    "code-runner.saveFileBeforeRun": true,
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.showExecutionMessage": false,
+    "code-runner.ignoreSelection": true,
+    "code-runner.executorMap": {
+        "java": "cd /d \"$workspaceRoot\" && if not exist bin mkdir bin && javac -d bin -cp bin \"$fullFileName\" && java -cp bin $fileNameWithoutExt"
+    }
 }
