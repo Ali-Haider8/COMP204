@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Run Current Java",
+
+            "request": "launch",
+
+            "mainClass": "${file}",
+
+            "console": "externalTerminal",
+
+            "preLaunchTask": "Build Java",
+
+            "cwd": "${workspaceFolder}"
+        }
+    ]
+}
